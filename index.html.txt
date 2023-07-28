@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Operaciones Matemáticas</title>
+</head>
+<body>
+  <h1>Operaciones Matemáticas</h1>
+  <p>Resultado: <span id="resultado">0</span></p>
+  <button onclick="sumar()">Suma</button>
+  <button onclick="restar()">Resta</button>
+  <button onclick="multiplicar()">Multiplicación</button>
+  <button onclick="dividir()">División</button>
+
+  </script>
+</body>
+</html>
